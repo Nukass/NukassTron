@@ -43,11 +43,12 @@ a {
     color: #756158;
     font-style: italic;
 }
-
+/* tato třída upravuje fotografii, ale v html je třída pojmenovaná foto-omne
 .omne {
     border-radius: 50%;
     width: 200px;
 }
+vlastnoti pro foto jsou níže, toto je možné vymazat*/
 
 section {
     padding: 50px 15%;
@@ -75,12 +76,12 @@ td {
     text-align: center;
     padding: 20px 0;
 }
-
+/*margin - mezi číslem a jednotkou nesmí být mezera*/
 .foto-omne {
     width: 200px;
     border-radius: 50%;
     float: left;
-    margin: 0 30px 30 px 0;
+    margin: 0 30px 30px 0;
 }
 
 .fotogalerie img {
